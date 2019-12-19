@@ -1,0 +1,70 @@
+{
+    "name": "SpringCM",
+    "description": "SpringCM delivers an innovative document workflow and management platform, powering the leading contract lifecycle management (CLM) application.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1166-springcm.jpg",
+    "tags": [
+        "cms",
+        "content",
+        "documents",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/springcm\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SpringCM",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1166-springcm.jpg",
+            "humanURL": "https:\/\/www.springcm.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/springcm-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/springcm-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.springcm.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.springcm.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.springcm.com\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/springcm"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/springcm"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/springcm"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.springcm.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/springcm"
+        }
+    ]
+}
